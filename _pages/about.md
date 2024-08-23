@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am Xinyi Zhou, currently a Master student pursuing the degree of [Master of Science in Computer Science (General)](https://www.cs.usc.edu/academic-programs/masters/computer-science-general/) at the University of Southern California and a student researcher for [USC ACE Lab](https://aceatusc.github.io/), supervised by [Souti Rini Chattopadhyay](https://soutirini.com/).
-Before coming to the USC, I obtained the Bachelor of Engineering in CSE at Southern University of Science and Technology([SUSTECH](https://www.sustech.edu.cn/)) advised by [Dr.Jiang Liu](https://scholar.google.com/citations?hl=en&user=NHt3fUcAAAAJ&view_op=list_works&sortby=pubdate), during which I worked as an undergraduate researcher in his lab [iMED](http://www.imed-lab.com/).
+Before coming to the USC, I obtained the Bachelor of Engineering in CSE at Southern University of Science and Technology ([SUSTECH](https://www.sustech.edu.cn/en/)) advised by [Dr.Jiang Liu](https://scholar.google.com/citations?hl=en&user=NHt3fUcAAAAJ&view_op=list_works&sortby=pubdate), during which I worked as an undergraduate researcher in his lab [iMED](http://www.imed-lab.com/).
 
 Now I am actively seeking full time SDE opportunities, please email me if you would like to connect with me!
 
