@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Xinyi Zhou, currently a Master student pursuing the degree of [Master of Science in Computer Science (General)](https://www.cs.usc.edu/academic-programs/masters/computer-science-general/) at the University of Southern California.
+I am Xinyi Zhou, currently a Master student pursuing the degree of [Master of Science in Computer Science (General)](https://www.cs.usc.edu/academic-programs/masters/computer-science-general/) at the University of Southern California and a student researcher for [USC ACE Lab](https://aceatusc.github.io/), supervised by [Souti Rini Chattopadhyay](https://soutirini.com/).
 Before coming to the USC, I obtained the Bachelor of Engineering in CSE at Southern University of Science and Technology([SUSTECH](https://www.sustech.edu.cn/)) advised by [Dr.Jiang Liu](https://scholar.google.com/citations?hl=en&user=NHt3fUcAAAAJ&view_op=list_works&sortby=pubdate), during which I worked as an undergraduate researcher in his lab [iMED](http://www.imed-lab.com/).
 
-Now I am actively seeking internship opportunities, please email me if you would like to connect with me!
+Now I am actively seeking full time SDE opportunities, please email me if you would like to connect with me!
 
 # Interests
 - Human Computer Interaction Interface: Web Application Development and User Experience
@@ -19,6 +19,8 @@ Now I am actively seeking internship opportunities, please email me if you would
 
 # Recent Activities
 ## Experience
+From May 2024 to August 2024, I worked as a Software Engineer Intern at [Veeva Systems](https://www.veeva.com/). I contributed to the Vault Platform Reporting team, helping maintain a Spring Boot and React-based cloud platform. I resolved 11 critical defects, implemented a "Last Updated" time indicator to enhance user experience for over 1,000 customers, and improved unit test coverage using JUnit and Jest.
+
 From May 2023 to August 2023, I worked as a Machine Learning (NLP) engineer at [UBT Robotics](https://www.ubtrobot.com/) on large language models. I fine-tuned LLM chatbots (Vicuna 7B, 13B, and 33B) based on the over 50,000 ChatGPT-generated Welcoming and Guiding Dialogues. Preliminary user evaluation indicates a 29.74% user preference enhancement over the original Vicuna chatbot.
 
 From August 2022 to December 2022, I worked as a research assistant for Dr.[Luo Tao](https://designschool.sustech.edu.cn/cn/academics/faculty/378.html) at SUSTECH's [School of Design](https://designschool.sustech.edu.cn/cn), mainly responsible for Unity MR development, [IxDL](http://ixdlanguage.org/) user survey, and HCI-experiment design.
