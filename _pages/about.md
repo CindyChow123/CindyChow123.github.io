@@ -23,7 +23,7 @@ From May 2024 to August 2024, I worked as a Software Engineer Intern at [Veeva S
 
 From May 2023 to August 2023, I worked as a Machine Learning (NLP) engineer at [UBT Robotics](https://www.ubtrobot.com/){:target="_blank"} on large language models. I fine-tuned LLM chatbots (Vicuna 7B, 13B, and 33B) based on the over 50,000 ChatGPT-generated Welcoming and Guiding Dialogues. Preliminary user evaluation indicates a 29.74% user preference enhancement over the original Vicuna chatbot.
 
-From August 2022 to December 2022, I worked as a research assistant for Dr.[Luo Tao](https://designschool.sustech.edu.cn/cn/academics/faculty/378.html){:target="_blank"} at SUSTECH's [School of Design](https://designschool.sustech.edu.cn/cn){:target="_blank"}, mainly responsible for Unity MR development, [IxDL](http://ixdlanguage.org/){:target="_blank"} user survey, and HCI-experiment design.
+From August 2022 to December 2022, I worked as a research assistant for Dr.[Luo Tao](https://designschool.sustech.edu.cn/about/team/faculty/375.html){:target="_blank"} at SUSTECH's [School of Design](https://designschool.sustech.edu.cn/en){:target="_blank"}, mainly responsible for Unity MR development, [IxDL](http://ixdlanguage.org/?lang=en){:target="_blank"} user survey, and HCI-experiment design.
 
 From March 2022 to June 2022, I worked as a front-end engineer for a start-up named 未界科技(Weijie Technology). This company aims to strengthen the industry of [Murder Mystery Game](https://en.wikipedia.org/wiki/Murder_mystery_game){:target="_blank"} with computer technology.  
 
